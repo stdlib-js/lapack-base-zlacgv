@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-18)
+## Unreleased (2025-01-21)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`c86f3f7`](https://github.com/stdlib-js/stdlib/commit/c86f3f7864422879b7ac4979586fab81ac45d3dc) - **style:** align comments _(by Athan Reines)_
 -   [`4e3292d`](https://github.com/stdlib-js/stdlib/commit/4e3292d5f4d82776caafbe046d8ee4a423faee4f) - **feat:** add `lapack/base/zlacgv` [(#4725)](https://github.com/stdlib-js/stdlib/pull/4725) _(by Ricky Reusser, Athan Reines)_
 
 </details>
