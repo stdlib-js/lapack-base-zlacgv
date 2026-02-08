@@ -44,6 +44,11 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
+zlacgv = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-zlacgv@umd/browser.js' )
+```
+The previous example will load the latest bundled code from the umd branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/lapack-base-zlacgv/tags). For example,
+
+```javascript
 zlacgv = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-zlacgv@v0.1.1-umd/browser.js' )
 ```
 
@@ -56,7 +61,7 @@ var zlacgv = require( 'path/to/vendor/umd/lapack-base-zlacgv/index.js' )
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-zlacgv@v0.1.1-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-zlacgv@umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -184,7 +189,7 @@ var z = zx.get( 3 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/complex-float64-ctor@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-zlacgv@v0.1.1-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-zlacgv@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
