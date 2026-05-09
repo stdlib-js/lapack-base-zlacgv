@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-29)
+## Unreleased (2026-05-09)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`e65ccd3`](https://github.com/stdlib-js/stdlib/commit/e65ccd36d3a8de184de6c571c713460a55094c18) - **docs:** improve doctests for complex number typed arrays in `lapack/base/zlacgv` [(#12022)](https://github.com/stdlib-js/stdlib/pull/12022) _(by Karan Anand)_
 -   [`db7bb4c`](https://github.com/stdlib-js/stdlib/commit/db7bb4c8b129e4d082aaa8531cca082603107fe3) - **bench:** refactor to use string interpolation in `lapack/base/zlacgv` [(#10127)](https://github.com/stdlib-js/stdlib/pull/10127) _(by Prajjwal Bajpai)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Karan Anand
 -   Prajjwal Bajpai
 
 </section>
